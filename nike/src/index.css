@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  html {
+    overflow-x: hidden;
+  }
+  
+  .overflow-hidden {
+    overflow-y: hidden;
+  }
+  
+  body {
+    min-height: 100vh;
+    background-color: #181c25;
+    color: white;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
